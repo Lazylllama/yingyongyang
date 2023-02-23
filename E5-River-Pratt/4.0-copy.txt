@@ -1,0 +1,131 @@
+--------------------------------------------------------------------
+--------------------------------------------------------------------
+   HEADER SECTION
+--------------------------------------------------------------------
+--------------------------------------------------------------------
+
+----------------------------------
+   H1 TAG
+----------------------------------
+
+Your First and Last Name
+
+----------------------------------
+   H2 TAG (pick one below)
+----------------------------------
+
+Media Communications (MCOM) 
+Graphic Design (PAGD)
+
+
+--------------------------------------------------------------------
+--------------------------------------------------------------------
+   SECTION 1
+--------------------------------------------------------------------
+--------------------------------------------------------------------
+
+----------------------------------
+   H3 TAG
+----------------------------------
+
+About us
+
+----------------------------------
+   P TAG
+----------------------------------
+
+Nunc lobortis mattis aliquam faucibus purus. Bibendum est ultricies integer quis auctor elit. Odio pellentesque diam volutpat commodo. Ac odio tempor orci dapibus ultrices. Ut etiam sit amet nisl purus. Malesuada nunc vel risus commodo. Pellentesque adipiscing commodo elit at imperdiet dui accumsan sit. Quis blandit turpis cursus in hac habitasse platea. Imperdiet sed euismod nisi.
+
+----------------------------------
+   P TAG
+----------------------------------
+
+Lobortis feugiat vivamus at augue eget arcu dictum varius. Tortor pretium viverra suspendisse potenti nullam ac. Praesent semper feugiat nibh sed pulvinar. Cras pulvinar mattis nunc sed blandit libero volutpat sed. Donec pretium vulputate sapien nec sagittis aliquam malesuada. Fermentum leo vel orci porta non. Neque sodales ut etiam sit amet nisl purus in. Et odio pellentesque diam volutpat commodo sed. 
+
+----------------------------------
+   P TAG
+----------------------------------
+
+Nunc lobortis mattis aliquam faucibus purus. Bibendum est ultricies integer quis auctor elit. Odio pellentesque diam volutpat commodo. Ac odio tempor orci dapibus ultrices. Ut etiam sit amet nisl purus. Malesuada nunc vel risus commodo. Pellentesque adipiscing commodo elit at imperdiet dui accumsan sit. Quis blandit turpis cursus in hac habitasse platea. Imperdiet sed euismod nisi porta lorem mollis aliquam ut. 
+
+--------------------------------------------------------------------
+--------------------------------------------------------------------
+   SECTION 2
+--------------------------------------------------------------------
+--------------------------------------------------------------------
+
+----------------------------------
+   H3 TAG
+----------------------------------
+
+Our services
+
+----------------------------------
+   P TAG
+----------------------------------
+
+Sit amet consectetur adipiscing elit duis tristique sollicitudin. Adipiscing tristique risus nec feugiat in fermentum. Orci a scelerisque purus semper eget duis at. Neque egestas congue quisque egestas. Eget mi proin sed libero. Venenatis lectus magna fringilla urna porttitor rhoncus dolor purus. Nunc sed id semper risus in. Nunc faucibus a pellentesque sit. Facilisis volutpat est velit egestas.
+
+----------------------------------
+   P TAG
+----------------------------------
+
+Nulla posuere sollicitudin aliquam ultrices sagittis orci a scelerisque purus. Placerat in egestas erat imperdiet sed. Quis hendrerit dolor magna eget est lorem ipsum dolor. Viverra maecenas accumsan lacus vel facilisis volutpat est velit egestas. Ut eu sem integer vitae justo eget magna fermentum. Fusce ut placerat orci nulla pellentesque dignissim enim sit amet. Ac orci phasellus egestas tellus. 
+
+----------------------------------
+   P TAG
+----------------------------------
+
+Risus nec feugiat in fermentum posuere. Vitae justo eget magna fermentum iaculis eu non diam. Semper quis lectus nulla at volutpat diam. Pretium lectus quam id leo in vitae turpis massa. Pharetra diam sit amet nisl suscipit adipiscing bibendum est ultricies. Et tortor at risus viverra adipiscing at. Vestibulum mattis ullamcorper velit sed. Porta nibh venenatis cras sed. Egestas pretium aenean pharetra magna.
+
+--------------------------------------------------------------------
+--------------------------------------------------------------------
+   SECTION 3
+--------------------------------------------------------------------
+--------------------------------------------------------------------
+
+----------------------------------
+   H3 TAG
+----------------------------------
+
+Contact us
+
+----------------------------------
+   P TAG
+----------------------------------
+
+Ut faucibus pulvinar elementum integer enim neque. Diam volutpat commodo sed egestas egestas fringilla phasellus faucibus scelerisque. Enim nunc faucibus a pellentesque sit amet porttitor eget dolor. Cursus metus aliquam eleifend mi in nulla posuere sollicitudin. Adipiscing elit ut aliquam purus sit. Nam aliquam sem et tortor consequat id porta nibh venenatis. Consequat semper viverra nam libero justo laoreet sit amet cursus. 
+
+----------------------------------
+   P TAG
+----------------------------------
+
+A erat nam at lectus urna. Neque egestas congue quisque egestas. Sit amet justo donec enim diam vulputate. Varius sit amet mattis vulputate enim nulla aliquet. Adipiscing diam donec adipiscing tristique. Turpis massa sed elementum tempus egestas sed. Viverra orci sagittis eu volutpat odio facilisis. Leo in vitae turpis massa. Facilisis volutpat est velit egestas dui id ornare arcu. 
+
+----------------------------------
+   P TAG
+----------------------------------
+
+At varius vel pharetra vel turpis nunc eget lorem dolor. Natoque penatibus et magnis dis parturient montes nascetur ridiculus. Ac tortor dignissim convallis aenean et tortor at risus viverra. Non nisi est sit amet facilisis magna etiam tempor orci. Id donec ultrices tincidunt arcu. Aenean pharetra magna ac placerat vestibulum. Nunc sed velit dignissim sodales ut. Adipiscing enim eu turpis egestas pretium aenean pharetra magna ac. 
+
+--------------------------------------------------------------------
+--------------------------------------------------------------------
+   FOOTER
+--------------------------------------------------------------------
+--------------------------------------------------------------------
+
+----------------------------------
+   H3 TAG
+----------------------------------
+
+Footer
+
+----------------------------------
+   P TAG
+----------------------------------
+
+Felis imperdiet proin fermentum leo vel. Egestas egestas fringilla phasellus faucibus scelerisque eleifend donec pretium vulputate. Urna nunc id cursus metus aliquam eleifend mi in. Donec et odio pellentesque diam volutpat commodo sed. Diam sollicitudin tempor id eu nisl nunc. Fermentum leo vel orci porta non pulvinar.
+
+
+
+
