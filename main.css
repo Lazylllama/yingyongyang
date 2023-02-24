@@ -18,6 +18,8 @@ html {
 body {
 	/* 1.6 * 10px = 16px */
 	font-size: 1.6rem;
+	background-image: url("images/moroccan-flower.png");
+	background-size: 45%;
 }
 
 
@@ -30,8 +32,11 @@ body {
 }
 
 header{
-	background-color: #603C43;
 	padding: 20px;
+	background-image: url("images/black-header.jpeg");
+	background-repeat: no-repeat;
+	background-position: center;
+	background-size: cover;
 }
 
 section{
@@ -44,6 +49,12 @@ section{
 
 #services{
 	background-color: #888;
+}
+
+#services img{
+	display: block;
+	margin: 0 auto;
+	width: 500px;
 }
 
 footer {
@@ -78,6 +89,7 @@ h1 {
 	color: #EFBC32;
 	font-family: "pauline-didone-variable", sans-serif;
 	text-align: center;
+	word-spacing: 100px;
 }
 
 h2 {
@@ -123,6 +135,7 @@ h6 {
 p {
 	color: #404040;
 	font: 400 1.5em/1.25em Gotham, Helvetica, Arial, "sans-serif";
+	font: arial
 	margin-bottom: 1em;
 	
 }
